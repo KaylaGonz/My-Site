@@ -38,6 +38,11 @@ a{
   color: #2d4059;
   font-family: 'Montserrat', sans-serif;
   font-weight: normal;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6
 }
 
 .top-container{
